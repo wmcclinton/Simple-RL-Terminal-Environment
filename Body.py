@@ -2,7 +2,6 @@
 #
 # Simple base for Agent in world
 #
-# (Made for 2 agents with turn based movements, but can be extended for multiple agents)
 # For Open Acess and Use
 #
 # Made by Willie McClinton at University of South Florida
